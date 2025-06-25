@@ -1,2 +1,2 @@
 # 2k
-analysis of Common Era climate variability
+sandbox space for informal analysis of Common Era climate variability
